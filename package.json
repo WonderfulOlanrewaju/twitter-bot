@@ -1,0 +1,16 @@
+{
+  "name": "bot.js",
+  "version": "1.0.0",
+  "description": "My first bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "great twitter crawler",
+    "start": "node bot.js"
+  },
+  "author": "Olanrewaju A. Olaboye",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "twit": "^2.2.11"
+  }
+}
